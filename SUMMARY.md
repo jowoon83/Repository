@@ -8,6 +8,5 @@
   * [Player](manual/player.md)
 * [Reference](reference/README.md)
   * [Api Reference](reference/api-reference.md)
-* [Server Index](untitled.md)
 * [RScriptServer](untitled-1.md)
 
